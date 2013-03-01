@@ -84,3 +84,7 @@ tbody a:visited:after {
 	font-family: Verdana,sans-serif;
 	content: "\00A0\221A"
 }
+
+div {
+	width:100%;
+}
